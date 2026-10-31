@@ -167,7 +167,7 @@ const page = () => {
             {/* Large decorative tree */}
             <div className="flex justify-center lg:justify-end">
               <div className="relative">
-       =        <img src="logo.png" alt="Jenkins & Sons" />
+               <img src="logo.png" alt="Jenkins & Sons" />
               <div className="absolute inset-0 bg-gradient-to-t from-cyan-500/20 to-transparent rounded-full blur-3xl"></div>
               </div>
             </div>
