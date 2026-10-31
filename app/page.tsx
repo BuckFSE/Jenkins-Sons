@@ -289,11 +289,6 @@ const page = () => {
               </div>
               <div className="flex items-center space-x-4">
                 <div className="bg-lime-500 p-4 rounded-full">
-                  <Mail className="w-6 h-6" />
-                </div>
-              </div>
-              <div className="flex items-center space-x-4">
-                <div className="bg-lime-500 p-4 rounded-full">
                   <MapPin className="w-6 h-6" />
                 </div>
                 <div>
