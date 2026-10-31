@@ -400,7 +400,7 @@ const page = () => {
               <div className="space-y-2 text-[#aab49c]">
                 <a href="tel:+14342824028"><p>Phone: (434) 282-4028</p></a>
                 <p>Email: info@jenkinssons.com</p>
-                <p>Service Area: Fredicksburg & Surrounding </p>
+                <p>Service Area: Fredicksburg & Surrounding Counties </p>
               </div>
             </div>
           </div>
