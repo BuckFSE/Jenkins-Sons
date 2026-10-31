@@ -178,7 +178,7 @@ const page = () => {
       {/* photos */}
       <section className='grid sm:grid-cols-3'>
         <div>
-          <img src="/treeimg.png" alt="treework shirts" />
+          <img src="/treeimg.jpeg" alt="treework shirts" />
         </div>
          <div>
           <img src="/treeimg2.png" alt="treework climbing tree"  />
