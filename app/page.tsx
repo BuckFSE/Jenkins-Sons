@@ -139,7 +139,7 @@ const page = () => {
 
       {/* Hero Section */}
       <section id="home" className="pt-20 pb-16 px-4 bg-gradient-to-br from-[#090d08] via-[#172410] to-[#090d08]">
-        <div className="max-w-7xl mx-auto">
+        <div className="max-w-7xl mx-auto pt-20">
           <div className="grid lg:grid-cols-2 gap-12 items-center min-h-[80vh]">
             <div className="space-y-8">
               <h1 className="text-5xl lg:text-7xl font-bold leading-tight">
