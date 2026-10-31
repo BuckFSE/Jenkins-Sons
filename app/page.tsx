@@ -92,9 +92,6 @@ const page = () => {
       <div className="relative">
        <img src='logo.png' className='w-l7 h-17'/>
       </div>
-      <div>
-        <h1 className="text-2xl font-bold text-white">Jenkins & Sons</h1>
-      </div>
     </div>
   );
 
